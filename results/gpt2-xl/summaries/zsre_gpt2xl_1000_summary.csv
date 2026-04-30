@@ -1,0 +1,2 @@
+model,n_samples,efficacy_pct,paraphrase_pct,specificity_pct
+gpt2-xl,1000,99.8,100.0,50.71
