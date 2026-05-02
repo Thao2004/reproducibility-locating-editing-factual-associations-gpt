@@ -43,8 +43,10 @@ Open [notebooks/extension_2_sequential_edits.ipynb](notebooks/extension_2_sequen
 
 ### Extension 3: Extreme paraphrase generalization
 
-(To be added)
+Tests whether ROME edits remain reliable when the same factual association is expressed through more difficult prompt transformations. In addition to the original prompt and standard paraphrases, this extension evaluates passive, question, negation, and indirect prompt forms.
 
+Open [notebooks/extension_3_extremeParaphrase.ipynb](notebooks/extension_3_extreme_Paraphrase.ipynb)
+  
 ## Results
 
 All experiment outputs are stored in the `results/` folder:
@@ -52,7 +54,7 @@ All experiment outputs are stored in the `results/` folder:
 - `gpt2-xl/`: Reproducibility results (zsRE dataset)
 - `extension_1/`: GPT-J experiments
 - `extension_2/`: Sequential editing experiments
-- `extension_3/`: (to be added)
+- `extension_3/`: Extreme paraphrase generalization experiments
 
 Each folder contains:
 
