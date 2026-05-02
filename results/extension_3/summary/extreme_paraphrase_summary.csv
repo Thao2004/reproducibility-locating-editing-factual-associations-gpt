@@ -1,0 +1,8 @@
+prompt_type,n_records,n_success,success_rate_pct
+original,5,5,100.0
+existing_paraphrase,10,9,90.0
+passive,15,15,100.0
+question,20,20,100.0
+negation,20,16,80.0
+indirect,30,12,40.0
+overall,100,77,77.0
